@@ -29,4 +29,4 @@ DEFAULT_PAGINATION = 4
 #RELATIVE_URLS = True
 
 # Theme
-THEME = 'cebong'
+THEME = 'svbtle'
