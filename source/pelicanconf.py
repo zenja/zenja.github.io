@@ -16,7 +16,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Github', 'http://getpelican.com://github.com/zenja/'),
+LINKS =  (('Github', 'https://github.com/zenja/'),
           ('Google+', 'https://plus.google.com/110995094488107945609/posts'),
           ('Linkedin', 'http://www.linkedin.com/in/xingw'))
 
