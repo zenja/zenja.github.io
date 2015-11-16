@@ -25,5 +25,17 @@
 </description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>http://zenja.github.io/about/</link>
+      <pubDate>Sat, 14 Nov 2015 15:52:08 +0800</pubDate>
+      
+      <guid>http://zenja.github.io/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;it-works:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;It works!&lt;/h1&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
